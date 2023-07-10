@@ -1,3 +1,5 @@
+public:: true
+
 - # Examples of *simple materials* that would go nicely into the Matlib project. #matlib
 - Small physical things that would fit in the project:
 	- Small glass animal

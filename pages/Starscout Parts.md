@@ -1,3 +1,5 @@
+public:: true
+
 - # List of parts that need to be 3D printed, laser cut, made, or bought for Starscouts #starscouts
 	- ## 3D Printed Parts
 		- Nosecone (both halves)
