@@ -1,0 +1,10 @@
+- [[Matlib TODOs]] #matlib
+	- TODO Investigate migration to Drupal as a more flexible CMS
+	  SCHEDULED: <2023-07-09 Sun>
+	- TODO Go into lab and take pictures of existing material, and hopefully learn more stories from Jane
+	  SCHEDULED: <2023-07-10 Mon>
+	- TODO Start writing up pages about the different materials in the lab
+	  SCHEDULED: <2023-07-10 Mon>
+		- Note: Amer wants more typical materials, as well as the more "interesting" ones that are in the lab. As work is ongoing writing up the report, it would also be worth finding all the best examples of single material stuff. [[Simple Materials]]
+	- TODO Fix the item / material creation pages to be more user friendly (low priority given that this won't transfer out of Grav)
+	-

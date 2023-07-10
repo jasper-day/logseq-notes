@@ -1,0 +1,8 @@
+.body {
+  transition: none !important;
+}
+
+.ui-notifications .notification-area {
+  background-color: var(--ls-secondary-background-color, #000);
+}
+

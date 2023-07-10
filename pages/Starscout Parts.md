@@ -1,0 +1,30 @@
+- # List of parts that need to be 3D printed, laser cut, made, or bought for Starscouts #starscouts
+	- ## 3D Printed Parts
+		- Nosecone (both halves)
+		- Reaction wheel mount
+		- Shock cord mount above motor (also laser cut part)
+		- jigs:
+			- Jig for drilling recovery holes (doubles as jig for tube cutting)
+	- ## Laser cut parts
+		- Shock cord mount part
+		- Fins
+		- Centering rings
+	- ## Parts to be bought
+		- Eye bolts & nuts for recovery section
+		- Shear pins? Ask Luke / Ben
+	- ## Parts to be made
+		- Body tubes
+			- Forward body tube
+	- ## Parts we already own
+		- 5x H125-12A motor reloads
+		- Delay Adjustment Tool
+		- 5x Motor Mount Tubes (~210 mm)
+		- 3x (???) Coupling Tubes (150mm / 6")
+		- Stainless circle 100 mm x 50OD
+		- 5x ejection charge canisters (not used)
+		- 5x parachutes
+		- Enough shock cords
+		- 4x Rail Guides
+		-
+		-
+	-
