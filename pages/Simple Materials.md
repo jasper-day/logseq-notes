@@ -1,7 +1,6 @@
 public:: true
 
 - # Examples of *simple materials* that would go nicely into the Matlib project. #matlib
-- Small physical things that would fit in the project:
 	- Small glass animal
 	- Fabrics - synthetic and naturally-occurring
 	- Rubber bands
@@ -31,7 +30,12 @@ public:: true
 		- Model ship?
 		- Something from particle board (look at Ikea)
 	- Pencil case
-	- Pencil lead of different hardnesses
+	- Common forms of pure carbon:
+		- Pencil lead of different hardnesses
+		- Graphite lubricant
+		- Soot
+		- Diamond
+		- Carbon fiber, eg tennis racket
 	- Mica flakes for coloring things
 	- Glitter
 	- Wax
@@ -52,4 +56,8 @@ public:: true
 		- Glasses, mugs
 		- Pots and pans, particularly ones with multiple layers for heat dissipation and chemical effects
 		- Springy fish spatula
-- Springs, mechanisms from ballpoint pens
+		- Thermos (vacuum, thermal insulation, reflectivity)
+	- Springs, mechanisms from ballpoint pens
+	- Stuff with surface coatings
+		- Painted item / paint can
+	-
