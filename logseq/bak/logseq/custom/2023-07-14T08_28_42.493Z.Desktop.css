@@ -1,0 +1,11 @@
+.body {
+}
+
+.ui-notifications .notification-area {
+    background: var(--ls-secondary-background-color, #000);
+}
+
+.content .selected {
+    background: rgba(250,250,250,0.1);
+}
+
