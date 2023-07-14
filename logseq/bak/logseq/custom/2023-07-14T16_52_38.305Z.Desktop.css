@@ -2,7 +2,7 @@
 }
 
 .ui-notifications .notification-area {
-    background-color: #000;
+    background-color: var(--ls-secondary-background-color, #000);
 }
 
 .selected {
