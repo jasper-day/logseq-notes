@@ -1,0 +1,13 @@
+.body {
+}
+
+.ui-notifications .notification-area {
+    background-color: #000;
+}
+
+.selected {
+    background-color: rgba(250,250,250,0.1) !important;
+}
+
+#main-content-container, .left-sidebar-inner .nav-content-item, .sidebar-item.content {zoom: 1.1}
+
